@@ -70,4 +70,4 @@ pip install numpy matplotlib scikit-learn
 
 ---
 
-Happy Learning & Experimenting!
+tutorial :https://www.geeksforgeeks.org/machine-learning/k-nearest-neighbor-algorithm-in-python/
